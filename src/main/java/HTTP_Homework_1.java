@@ -57,6 +57,7 @@ public class HTTP_Homework_1 {
         printList(list);
     }
 
+
     public static void printList(List<Information>list){
         for (Information info : list){
             System.out.println(info);
